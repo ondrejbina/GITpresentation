@@ -1,0 +1,3 @@
+# PrezentaceGIT
+## vetsi
+*nakrivo*
